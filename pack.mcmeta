@@ -1,18 +1,17 @@
 {
 	"pack": {
-		"identity": "hugoalh.Minecraft.Java.DataPack.DisableMinecraftAdvancement",
-		"name": "Minecraft Java Data Pack: Disable Minecraft Advancement",
+		"index": "hugoalh/Minecraft.Java.DataPack.DisableMinecraftAdvancement",
+		"name": "[Java Data Pack] Disable Minecraft Advancement",
 		"author": "hugoalh",
-		"version": "1.0.2",
-		"description": "Disable Minecraft Advancement, 1.0.2",
+		"version": "2.0.0",
+		"description": "Disable Minecraft Advancement, 2.0.0",
 		"tag": [
 			"hugoalh",
-			"minecraft",
 			"java",
 			"datapack",
 			"disable",
 			"advancement"
 		],
-		"pack_format": 1
+		"pack_format": 5
 	}
 }
