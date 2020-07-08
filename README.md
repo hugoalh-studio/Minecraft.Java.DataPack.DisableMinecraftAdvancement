@@ -24,4 +24,4 @@ Disable the Minecraft original advancement in your world.
 
 ## 📚 Guide
 
-- [How to install a data pack in Minecraft Java?](https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack)
+- [Installing data pack](https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack)

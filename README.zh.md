@@ -24,4 +24,4 @@
 
 ## 📚 指南
 
-- [如何在Minecraft Java中安裝資料包？](https://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E5%AE%89%E8%A3%85%E6%95%B0%E6%8D%AE%E5%8C%85)
+- [安裝資料包](https://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E5%AE%89%E8%A3%85%E6%95%B0%E6%8D%AE%E5%8C%85)
