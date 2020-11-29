@@ -15,7 +15,7 @@
 | v4 | 6 | ✔ |
 | v3 | 5 | ✔ |
 | v2 | 4 | ✔ |
-| < v2 |  | ❌ |
+| < v2 | *(N/A)* | ❌ |
 
 ## Report Vulnerability
 
