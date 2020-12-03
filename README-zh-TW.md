@@ -1,6 +1,6 @@
 🌐 | [English](./README.md) / [中文](./README-zh-TW.md)
 
-# <img align="center" src="./pack.png" height="64px" />［Minecraft Java資料包］停用Minecraft進度
+# <img align="center" src="./pack.svg" height="64px" />［Minecraft Java資料包］停用Minecraft進度
 
 <details>
   <summary><a href="https://github.com/hugoalh-studio/Minecraft.Java.DataPack.DisableMinecraftAdvancement"><code>hugoalh-studio/Minecraft.Java.DataPack.DisableMinecraftAdvancement</code></a></summary>
