@@ -48,6 +48,14 @@ A Minecraft Java Data Pack to disable the original Minecraft advancement in the 
   </tr>
 </table>
 
+## 📜 Description
+
+
+
+### ⚠ Important
+
+- Disable advancement maybe affect recipes (especially when restricted recipes is enabled).
+
 ## 📚 Guide
 
 - [Minecraft Java: Installing a data pack](https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack)
