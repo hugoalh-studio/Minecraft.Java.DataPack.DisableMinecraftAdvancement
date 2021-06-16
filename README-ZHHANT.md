@@ -1,4 +1,4 @@
-🌐 | [English](./readme.md) / [中文](./readme-zhhant.md)
+🌐 | [English](./README.md) / [中文](./README-ZHHANT.md)
 
 # <img align="center" src="./pack.svg" height="64px" />停用進度（Minecraft Java資料包）
 
@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <td><a href="./license-zhhant.md"><b>授權條款</b></a></td>
+    <td><a href="./LICENSE-ZHHANT.md"><b>授權條款</b></a></td>
     <td>MIT</td>
   </tr>
   <tr>
