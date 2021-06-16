@@ -1,4 +1,4 @@
-🌐 | [English](./readme.md) / [中文](./readme-zhhant.md)
+🌐 | [English](./README.md) / [中文](./README-ZHHANT.md)
 
 # <img align="center" src="./pack.svg" height="64px" />Disable Advancement (Minecraft Java Data Pack Edition)
 
@@ -17,7 +17,7 @@ A Minecraft Java Data Pack to disable the original Minecraft advancement in the 
 
 <table>
   <tr>
-    <td><a href="./license.md"><b>License</b></a></td>
+    <td><a href="./LICENSE.md"><b>License</b></a></td>
     <td>MIT</td>
   </tr>
   <tr>
